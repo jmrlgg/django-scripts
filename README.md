@@ -1,5 +1,6 @@
-# django-scripts
-Random Django scripts that ive used on my sites
+# Scripts for Django
+
+Random Django scripts that ive used and modified that i thought others would like to use or browse for ideas
 
 
 ---------------------------------------------------
